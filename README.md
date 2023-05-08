@@ -3,6 +3,8 @@
 ## Use
 Just to save my progress I made in learning image classification this is from a tutorial I saw.
 
+## Working of the Code
+
 This code uses a pre-trained VGG16 model, available in the Keras deep learning library, to classify an input image.
 
 First, the VGG16 model is loaded with pre-trained weights from the ImageNet dataset. The summary of the model architecture is printed to the console using the model.summary() method.
